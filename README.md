@@ -25,7 +25,8 @@ P.S. here insted of 300 u can put any number
 ``` bush
 600
 ```
-P.S. here insted of 600 u can put any number
+P.S. here insted of 600 u can put any number</br>
+Btw here is bot name **@it_start_practice_bot** u can try to run it in tg, but priviously write to me that i turn it on
 
 
 
